@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System.Xml.XPath;
+
+class Program
 {
     public static void Main(string[] args)
     {
@@ -33,6 +35,11 @@
         {
             Console.WriteLine("input is not a number");
         }
+
+        // Task Number 3
+        Console.WriteLine("Soal Nomor 3");
+        int[] x = {12, 9, 13, 6, 10, 4, 7, 2};
+        MultipleOfThreeRemover(x);
 
     }
 
@@ -148,5 +155,26 @@
             }
             Console.WriteLine();
         }
+    }
+
+    // Algoritma untuk membuang nilai kelipatan 3 dari Array dan mengurutkan hasilnya secara Ascending
+    public static void MultipleOfThreeRemover(int[] nArray)
+    {
+        var list = new List<int>();
+        foreach(int n in nArray)
+        {
+            if(n % 3 != 0)
+            {
+                list.Add(n);
+            }
+        }
+        var numbers = list.ToArray();
+        Array.Sort(numbers);
+        Console.Write("n = [ ");
+        foreach(var num in numbers)
+        {
+            Console.Write(num + " ");
+        }
+        Console.WriteLine("]");
     }
 }
