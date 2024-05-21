@@ -1,0 +1,15 @@
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\bin\Debug\net7.0\collection-of-algorithms.exe
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\bin\Debug\net7.0\collection-of-algorithms.deps.json
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\bin\Debug\net7.0\collection-of-algorithms.runtimeconfig.json
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\bin\Debug\net7.0\collection-of-algorithms.dll
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\bin\Debug\net7.0\collection-of-algorithms.pdb
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.csproj.AssemblyReference.cache
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.AssemblyInfoInputs.cache
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.AssemblyInfo.cs
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.csproj.CoreCompileInputs.cache
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.dll
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\refint\collection-of-algorithms.dll
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.pdb
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\collection-of-algorithms.genruntimeconfig.cache
+D:\Portofolio\Backend_Developer\DotNET\collection-of-algorithms\obj\Debug\net7.0\ref\collection-of-algorithms.dll
